@@ -1,0 +1,57 @@
+public class MyResume {
+    public static void main(String[] args) {
+        System.out.println("Exon N. Gutierrez");
+        System.out.println();
+        System.out.println("Aspiring Data Scientist");
+        System.out.println();
+        System.out.println("Contact Information:");
+        System.out.println(" - Cellphone: 815-735-4289  Email: Atlantisdisc92@gmail.com");
+        System.out.println();
+        System.out.println("Objective:");
+        System.out.println(" - Getting involved in tackling environmental issues like climate change, deforestation,");
+        System.out.println("   water pollution, critically threatened species, pandemics, water rising, etc. Perhaps");
+        System.out.println("   working for a tech company to analyze and hypothesis customer or user behavior.");
+        System.out.println();
+        System.out.println("Skills and Abilities:");
+        System.out.println(" - Python, pandas, numpy, sql, netica, and currently learning Java.");
+        System.out.println();
+        System.out.println("Experience:");
+        System.out.println(" - Joliet Junior College, Jr College, Joliet, IL 60341");
+        System.out.println("   I worked there for about a month and a half during the Spring of 2020,");
+        System.out.println("   then Covid-19 struck, so I left because of personal problems.");
+        System.out.println("   I tutored Precalculus 1, Precalculus 2, and Calculus 1 to JJC Students.");
+        System.out.println();
+        System.out.println(" - Amazon Fulfillment Center - MDW6, 1125 Remington Blvd, Romeoville, IL 60446");
+        System.out.println("   Dates From-To: 05/23/21 - 08/11/21");
+        System.out.println("   I worked as a Stower, Tugger, Outbound Water-Spider, and in Inbound Dock.");
+        System.out.println();
+        System.out.println(" - Amazon Fulfillment Center - MDW6, 1125 Remington Blvd, Romeoville, IL 60446");
+        System.out.println("   Dates From-To: 10/31/21 - 01/04/22");
+        System.out.println("   I worked as a Stower, Picker, Tugger, Outbound Water-Spider, and in Inbound Dock.");
+        System.out.println();
+        System.out.println(" - Amazon Fulfillment Center - MDW6, 1125 Remington Blvd, Romeoville, IL 60446");
+        System.out.println("   Dates From-To: 05/10/22 - 07/13/22");
+        System.out.println("   I worked as a Stower, Outbound Water-Spider, and in Inbound Dock.");
+        System.out.println();
+        System.out.println("Education:");
+        System.out.println(" - Joliet Junior College, Jr College, Joliet, IL 60341");
+        System.out.println("   Years From-To: Fall 2018 – Fall 2020");
+        System.out.println("   Overall GPA 3.73. Coursework includes Precalculus 1, Precalculus 2,");
+        System.out.println("   Rhetoric 1, Rhetoric 2, General Psychology, Principles of Speech");
+        System.out.println("   Communication, Computer Information Systems 1, Calculus 1,");
+        System.out.println("   Calculus 2, Biology, Computer Information systems 2 (QBasic), and");
+        System.out.println("   Chemistry. I was invited and accepted to join Phi Theta Kappa as a");
+        System.out.println("   result of my good academic performance.");
+        System.out.println();
+        System.out.println(" - Lewis University, 1 University Pkwy, Romeoville, IL 60446");
+        System.out.println("   Years From-To: Spring 2021-present");
+        System.out.println("   Current Overall GPA 3.69. Coursework includes Programming");
+        System.out.println("   Fundamentals (Python), Introduction to Data Science, Calculus 3,");
+        System.out.println("   Discrete Math, Applied Probability and Stats, Programming for Data");
+        System.out.println("   Analysis, Artificial Intelligence, and Principles of Sociology. I am still");
+        System.out.println("   currently taking classes as of Fall 2022 and I plan to graduate in");
+        System.out.println("   Spring 2023. I was invited and accepted into the National Honors");
+        System.out.println("   Society, and I was in the Dean’s list for good academic achievement");
+        System.out.println("   for the Spring 2022 Semester");
+    }
+}
